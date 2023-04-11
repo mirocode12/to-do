@@ -1,7 +1,7 @@
 import './App.css';
-import Header from './containers/Header';
+import Header from './containers/Header.js';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
     <div className='app-container'>
