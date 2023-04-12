@@ -14,3 +14,8 @@
     outline: none;
    }
 
+   button:hover{
+    cursor: pointer;
+    outline: cornsilk;
+   }
+

@@ -1,4 +1,5 @@
 import './App.css';
+import Cover from './components/Cover';
 import Header from './containers/Header.js';
 
 const App = () => {
@@ -6,6 +7,7 @@ const App = () => {
     <div className="App">
     <div className='app-container'>
       <Header></Header>
+      <Cover></Cover>
     </div>
     </div>
   );
